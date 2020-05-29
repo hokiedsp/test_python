@@ -1,0 +1,10 @@
+[submodule "lib/pybind11"]
+	path = lib/pybind11
+	url = https://github.com/pybind/pybind11.git
+[submodule "lib/catch2"]
+	path = lib/catch2
+	url = https://github.com/catchorg/Catch2.git
+
+[submodule "lib/vswhere"]
+	path = lib/vswhere
+	url = https://github.com/ChaosinaCan/pyvswhere.git
